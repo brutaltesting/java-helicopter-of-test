@@ -1,0 +1,9 @@
+bin
+.metadata
+.classpath,.class
+.project
+.DS_Store
+test-output
+/.classpath
+target
+.idea
