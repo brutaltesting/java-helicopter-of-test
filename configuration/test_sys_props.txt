@@ -1,9 +1,0 @@
-## File used for setting system properties, These are set in TestUtilities ##
-
-recording_on = false
-record_daytime = false
-web_team_record_all_disabled = true
-log_success_store = false
-log_collector_on = true
-supress_log_output = false
-webdriver=chrome
