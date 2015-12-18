@@ -7,3 +7,5 @@ test-output
 /.classpath
 target
 .idea
+.iml
+*.iml
